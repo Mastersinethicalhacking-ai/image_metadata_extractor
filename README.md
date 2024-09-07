@@ -22,8 +22,8 @@ bash
 Copy code
 sudo apt-get install wget
 
-install requirements first then use
-chmod +x image_metadata_extractor.sh
+install requirements first then use /n
+chmod +x image_metadata_extractor.sh /n
 ./image_metadata_extractor.sh
 
 
